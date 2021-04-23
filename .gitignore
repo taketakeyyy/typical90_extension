@@ -1,0 +1,9 @@
+# Ignore following files.
+node_modules/
+node_modules/**
+
+*/dst/*.js
+*/dst/**/*.js
+
+# Don't ignore following files.
+
