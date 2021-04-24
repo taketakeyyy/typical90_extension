@@ -6,7 +6,7 @@ AtCoderの「競プロ典型 90 問」のWEBページに、 [E869120](https://gi
 
 # Install
 
-Cannot download and install yet.
+Chrome Web Storeからインストールしてください：https://chrome.google.com/webstore/detail/typical90extension/olilmbfbgdnilofdfbladkgbbfecbidb
 
 # For Devs
 
