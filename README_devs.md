@@ -36,9 +36,9 @@
 ```
 
 ## How to develop
-今のところ、 `content_scripts.ts` のみがソースファイルです。
+ `content_scripts.ts` にプログラムのエントリポイントがあります。
 
-ビルドされたすべてのTSファイルはJSにトランスパイルされ、`typical90_extension/dst/bin`に出力されます。
+ビルドされたすべての ts ファイルは js にトランスパイルされ、`typical90_extension/dst/bin`に出力されます。
 
 # Publish (and Update)
 
