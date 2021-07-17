@@ -3,7 +3,7 @@
     "short_name": "ty90ex",
     "description": "Chrome extension that makes typical90 easier to use.",
     "manifest_version": 2,
-    "version": "1.0.0",
+    "version": "1.1.0",
     "author": "taketakeyyy",
     "icons": {
         "16": "icon/icon_x16.png",
